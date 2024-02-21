@@ -107,7 +107,7 @@
                 grid-area: a;
 
                 .date {
-                    background: url(/assets/img/event-01.jpg) center/cover;
+                    background: url(../img/event-01.jpg) center/cover;
                 }
             }
 
@@ -115,13 +115,13 @@
                 grid-area: b;
 
                 .date {
-                    background: url(/assets/img/event-02.jpg) center/cover;
+                    background: url(../img/event-02.jpg) center/cover;
                 }
             }
 
             .event-3 {
                 grid-area: c;
-                background: url(/assets/img/event-03.jpg);
+                background: url(../img/event-03.jpg);
                 padding: 25px;
                 
                 .adresse {
